@@ -47,6 +47,8 @@ int main(){
     Generate_Arr(Arr, print, size);
     Shuffle_Arr(Arr, print, size);
     Bubble_Sort(Arr, print, T_Arr, size);
+    Insertion_Sort(Arr, print, T_Arr, size);
+    Selection_Sort(Arr, print, T_Arr, size);
 
     Print_Results(T_Arr, NT_Arr);
     
